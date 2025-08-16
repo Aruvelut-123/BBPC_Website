@@ -1,0 +1,26 @@
+{
+  "name": "BBPC_Website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "dependencies": {
+    "@types/node": "^24.3.0",
+    "dayjs": "^1.11.13",
+    "markdown-it-mathjax3": "^4.3.2",
+    "process": "^0.11.10",
+    "vite": "^7.1.2",
+    "vitepress": "^1.6.4",
+    "vitepress-markdown-timeline": "^1.2.2",
+    "vue": "^3.5.18"
+  }
+}
