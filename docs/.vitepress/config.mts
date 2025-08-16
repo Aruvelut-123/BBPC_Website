@@ -5,7 +5,6 @@ import { enConfig } from './config/en'
 
 export default defineConfig({
   ...sharedConfig,
-  ignoreDeadLinks: true,
   locales: { // 多语言
     root: {
       label: '简体中文',
