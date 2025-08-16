@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.S-Qvb3wi.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zh/faqs/index.md","filePath":"zh/faqs/index.md","lastUpdated":1755355101000}'),s={name:"zh/faqs/index.md"};function n(r,o,d,c,i,p){return a(),t("div")}const m=e(s,[["render",n]]);export{_ as __pageData,m as default};
