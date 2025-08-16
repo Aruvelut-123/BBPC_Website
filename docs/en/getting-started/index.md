@@ -34,7 +34,7 @@ You can also take a look of the pic:
 
 ### Step 3. Install Pack According to The Instrcutions
 ::: danger
-The section to select installation folder, please select **the root directory of the game**, which is the folder that hold **BALDI.exe**, and the folders path should **not** contains **any non English or number characters**! The reason writes in [FAQs](/en/faqs/).
+The section to select installation folder, please select **the root directory of the game**, which is the folder that hold **BALDI.exe**, and the folders path should **not** contains **any non English or number characters**! The reason writes in [FAQs](https://www.minecraftisbest.top/en/faqs/).
 :::
 ::: info
 Because of the path of the installer will access may needs admin privileges (some path needs), so the installer has been set to ask for admin privileges when it runs.  
@@ -60,4 +60,4 @@ You can also take a look of the pic:
 
 Then, the installer should start the installation.  
 After the installation, you can start the game to check if it installs properly!  
-If you failed to install, please check the installation steps and see if you did something **wrong**! If it's not you, you can check out the [FAQs](/en/faqs) page or start a [issue](https://github.com/Aruvelut-123/Universal_Installer/issues) to tell me.
+If you failed to install, please check the installation steps and see if you did something **wrong**! If it's not you, you can check out the [FAQs](https://www.minecraftisbest.top/en/faqs) page or start a [issue](https://github.com/Aruvelut-123/Universal_Installer/issues) to tell me.
