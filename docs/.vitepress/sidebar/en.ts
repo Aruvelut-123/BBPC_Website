@@ -7,6 +7,7 @@ export const enSidebar: DefaultTheme.Sidebar = {
       items: [
         { text: 'Getting started', link: `/en/getting-started/` },
         { text: 'FAQs', link: `/en/faqs/` },
+        { text: 'Mod Compatible Table', link: '/en/compatible_table' },
       ]
     },
     {

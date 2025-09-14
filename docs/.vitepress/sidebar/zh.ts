@@ -7,6 +7,7 @@ export const zhSidebar: DefaultTheme.Sidebar = {
       items: [
         { text: '快速开始', link: `/zh/getting-started/` },
         { text: '常见问题', link: `/zh/faqs/` },
+        { text: '模组兼容性列表', link: '/zh/compatible_table' },
       ]
     },
     {
