@@ -10,7 +10,10 @@ Also the [Enhanced Edition](https://gamebanana.com/mods/528528) has already susp
 :::
 | Game Ver | [Dev API](https://gamebanana.com/mods/383711) | [Baldi's Basics Times](https://gamebanana.com/mods/541227) | [Plus Level Studio](https://gamebanana.com/mods/617567) |
 | - | - | - | - |
-| [v0.12](https://store.steampowered.com/news/app/1275890/view/497205194887529115) | [v9.0.0.0](https://gamebanana.com/updates/362479) | Haven't update yet | [v1.3.0.0](https://gamebanana.com/updates/363953) |
+| [v0.12.2a](https://store.steampowered.com/news/app/1275890/view/519725729918748123) | [v9.1.0.0](https://gamebanana.com/updates/371039) | Haven't update yet | [v1.4.0.0](https://gamebanana.com/updates/373863) |
+| [v0.12.2](https://store.steampowered.com/news/app/1275890/view/519725729918748123) | [v9.1.0.0](https://gamebanana.com/updates/371039) | Haven't update yet | [v1.4.0.0](https://gamebanana.com/updates/373863) |
+| [v0.12.1](https://store.steampowered.com/news/app/1275890/view/500584344614601630) | [v9.1.0.0](https://gamebanana.com/updates/371039) | Haven't update yet | [v1.4.0.0](https://gamebanana.com/updates/373863) |
+| [v0.12](https://store.steampowered.com/news/app/1275890/view/497205194887529115) | [v9.1.0.0](https://gamebanana.com/updates/371039) | Haven't update yet | [v1.4.0.0](https://gamebanana.com/updates/373863) |
 | [v0.11](https://store.steampowered.com/news/app/1275890/view/497199486905352820) | [v8.2.1.0](https://gamebanana.com/updates/354177) | Haven't update yet | [v0.1.0.4](https://gamebanana.com/updates/349311) |
 | [v0.10.2](https://store.steampowered.com/news/app/1275890/view/497194413504594274) | [v7.1.0.0](https://gamebanana.com/updates/339311) | [v1.3 Beta](https://gamebanana.com/updates/346115) | [v0.1.0.3](https://gamebanana.com/updates/335609) [20th ver](https://gamebanana.com/updates/338227) |
 | [v0.10.1](https://store.steampowered.com/news/app/1275890/view/497193144876532453) | [v7.1.0.0](https://gamebanana.com/updates/339311) | [v1.3 Beta](https://gamebanana.com/updates/346115) | [v0.1.0.3](https://gamebanana.com/updates/335609) [20th ver](https://gamebanana.com/updates/338227) |

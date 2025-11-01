@@ -5,7 +5,7 @@ layout: home
 hero:
   name: BBPC Language Pack
   text: Make BB+ Chinese!
-  tagline: Currectly support BB+ 0.11
+  tagline: Currectly support BB+ 0.12.x
   actions:
     - theme: brand
       text: QuickStart

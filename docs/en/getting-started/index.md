@@ -42,6 +42,7 @@ If you see this popup, which is called **UAC** and is a feature of **Windows**, 
 
 ![UAC](/images/uac_zh.png)
 
+Also there's an update for installer that if you are using **steam** installation of **Baldi's Baiscs Plus**, You can click on **Auto Detect** to automatic fill installation folder for you!
 :::
 After following the installer's instrcutions, you may see this section.  
 If you don't understand what the sections are, don't worry. You can use mouse to hover on the options and on the right side will shows the description of the item. (Only in Chinese for now)  
