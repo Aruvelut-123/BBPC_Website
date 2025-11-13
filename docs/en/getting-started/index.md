@@ -41,8 +41,6 @@ Because of the path of the installer will access may needs admin privileges (som
 If you see this popup, which is called **UAC** and is a feature of **Windows**, please click **Yes** (May called **Allow** on some version of Windows). You can also take a look of the pic (from Windows 11):
 
 ![UAC](/images/uac_zh.png)
-
-Also there's an update for installer that if you are using **steam** installation of **Baldi's Baiscs Plus**, You can click on **Auto Detect** to automatic fill installation folder for you!
 :::
 After following the installer's instrcutions, you may see this section.  
 If you don't understand what the sections are, don't worry. You can use mouse to hover on the options and on the right side will shows the description of the item. (Only in Chinese for now)  
@@ -55,9 +53,9 @@ You can also take a look of the pic:
 Notice: **PineDebug** is not compatitable with may mods due to it patches many original game codes, please install with caution!
 :::
 
-After that you will see **Select Path** section, because i haven't implement **auto dectect path** here, so you must choose the path by yourself. (Unless your **games** and **steam** are installed on your **C drive**, then you can skip this part and hit next with no issue)  
+After that you will see **Select Path** section, and here if you are playing using **Steam**, then you can click on **Auto Detect**, otherwise you will need to **manually select** the game folder.  
 You can also take a look of the pic:
-![第三点二步](/images/step3.1_zh.png)
+![Step 3.1](/images/step3.1_zh.png)
 
 Then, the installer should start the installation.  
 After the installation, you can start the game to check if it installs properly!  
