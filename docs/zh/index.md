@@ -5,7 +5,7 @@ layout: home
 hero:
   name: Baldi's Basics Plus 汉化模组
   text: 将你的 BB+ 变成中文！
-  tagline: 目前支持 BB+ 0.12.x
+  tagline: 目前支持 BB+ 0.13.x
   actions:
     - theme: brand
       text: 快速开始
