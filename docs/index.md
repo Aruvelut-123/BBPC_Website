@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: Baldi's Basics Plus 汉化模组
-  text: 将你的 BB+ 变成中文！
+  name: Baldi's Basics Plus
+  text: 汉化模组
   tagline: 目前支持 BB+ 0.13.x
   actions:
     - theme: brand
@@ -20,7 +20,9 @@ features:
   - title: 安装便捷
     details: 仅需点击几下，就可以将你的 Baldi's Basics Plus 游戏副本变成中文！
   - title: 多语言支持
-    details: 内置多语言支持，除了自带的 English 和简体中文外，你也可以自行添加其他语言！
-  - title: 实在不知道写什么了
-    details: 1145141919810 我也不知道写什么好 qwq
+    details: 内置多语言支持，除了自带的 English、简体中文和繁体中文外，你也可以自行添加其他语言（或修改存在的语言）！
+  - title: 模组支持
+    details: 支持部分模组内硬编码汉化！只须在安装程序内选择对应模组就会安装对应的扩展！
 ---
+
+<Home />

@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: BBPC Language Pack
-  text: Make BB+ Chinese!
+  name: Baldi's Basics Plus
+  text: Language Pack
   tagline: Currectly support BB+ 0.13.x
   actions:
     - theme: brand
@@ -20,7 +20,9 @@ features:
   - title: Easy to install
     details: Only needs several clicks, you can make your Baldi's Baiscs Plus game copy into chinese!
   - title: Multi-lang support
-    details: It has multi-lang support built-in. Besides English and Chinese built in it, you can add more languages by yourself!
-  - title: I don't know what can write here
-    details: 1145141919810. I don't know what can write here. qwq (those are garbage, wait for me when i figure out something to put here)
+    details: It has multi-lang support built-in. Besides English, Simplifiled Chinese and Traditional Chinese built in with it, you can add more languages by yourself (or modify existing language)!
+  - title: Mod support
+    details: Supports some mods hard-coded text! Just install the mod from the installer and the extension will be installed together!
 ---
+
+<Home />
