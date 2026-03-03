@@ -5,7 +5,7 @@ layout: home
 hero:
   name: Baldi's Basics Plus
   text: Language Pack
-  tagline: Currectly support BB+ 0.13.x
+  tagline: Currectly support BB+ 0.14
   actions:
     - theme: brand
       text: QuickStart
